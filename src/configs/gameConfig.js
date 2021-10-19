@@ -1,7 +1,7 @@
 export default {
     GAME: {
-        VIEWHEIGHT: 1080,
-        VIEWWIDTH: 1920,
+        VIEWHEIGHT: 640,
+        VIEWWIDTH: 860,
         TITLE: 'Auto Rhythm',
         RNGSEED: 31415926535,
     },
