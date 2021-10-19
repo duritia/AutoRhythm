@@ -66,19 +66,19 @@ export default {
         },
         Z: {
             CODE: 90,
-            KEY: 'Z',
+            KEY: 'Q',
         },
         X: {
             CODE: 88,
-            KEY: 'X',
+            KEY: 'W',
         },
         COMMA: {
             CODE: 188,
-            KEY: ',',
+            KEY: '1',
         },
         DOT: {
             CODE: 190,
-            KEY: '.',
+            KEY: '2',
         },
         A: {
             CODE: 65,
